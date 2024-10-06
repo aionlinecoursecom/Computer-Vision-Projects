@@ -50,11 +50,11 @@ For more details and hands-on experience, visit the **[Image Generation Model Fi
 This project improves image generation capabilities, making it a valuable tool for creative and research purposes using fine-tuned Diffusers models.
 
 ---
-### **4. [Real Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)**
+### **4. [Real-Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)**
 #### **Project Overview**
 This project uses the YOLOv8 model for real-time human pose detection. It can detect and track body key points, providing an efficient solution for sports analysis, fitness tracking, and more.
 
-For more details and hands-on experience, visit the **[Real Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Real-Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
 
 #### **Key Features Include**
 - **YOLOv8 for Pose Detection:** Detect human poses in real-time from images or video feeds.
@@ -67,12 +67,12 @@ For more details and hands-on experience, visit the **[Real Time Human Pose Dete
 The project offers a powerful solution for real-time human pose detection, supporting applications in sports analytics, fitness tracking, and more.
 
 ---
-### **5. [Real Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)**
+### **5. [Real-Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)**
 
 #### **Project Overview**
 This project automates the detection and recognition of license plates using YOLOv8 for object detection and OCR for text extraction. The system is designed for real-time processing of images and videos, making it ideal for traffic monitoring and security purposes.
 
-For more details and hands-on experience, visit the **[Real Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Real-Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
 
 #### **Key Features Include**
 - **YOLOv8 for License Plate Detection:** Detect and localize license plates in real-time.
