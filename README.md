@@ -13,7 +13,7 @@ This project leverages the YOLOv8 model to automate the detection of cataracts f
 #### **Project Outcome**
 This project demonstrates the use of YOLOv8 in medical imaging, providing a reliable tool for early cataract detection and enhancing the efficiency of eye care.
 
-For more details and hands-on experience, visit the **[Automatic Eye Cataract Detection Using YOLOv8](https://www.aionlinecourse.com/ai-projects/playground/automatic-eye-cataract-detection-using-yolov8)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Automatic Eye Cataract Detection Using YOLOv8](https://www.aionlinecourse.com/ai-projects/playground/automatic-eye-cataract-detection-using-yolov8)** on AI Projects.
 
 ---
 ### **2. [Crop Disease Detection Using YOLOv8](https://www.aionlinecourse.com/ai-projects/playground/crop-disease-detection-using-yolov8)**
@@ -30,7 +30,7 @@ This project focuses on detecting and classifying crop diseases using the YOLOv8
 #### **Project Outcome**
 This project automates the detection of crop diseases, helping farmers and agricultural professionals optimize crop health and yield using deep learning models like YOLOv8.
 
-For more details and hands-on experience, visit the **[Crop Disease Detection Using YOLOv8](https://www.aionlinecourse.com/ai-projects/playground/crop-disease-detection-using-yolov8)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Crop Disease Detection Using YOLOv8](https://www.aionlinecourse.com/ai-projects/playground/crop-disease-detection-using-yolov8)** on AI Projects.
 
 ---
 ### **3. [Image Generation Model Fine Tuning With Diffusers Models](https://www.aionlinecourse.com/ai-projects/playground/image-generation-model-fine-tuning-with-diffusers-models)**
@@ -47,7 +47,7 @@ This project fine-tunes pre-trained image generation models using Diffusers and 
 #### **Project Outcome**
 This project improves image generation capabilities, making it a valuable tool for creative and research purposes using fine-tuned Diffusers models.
 
-For more details and hands-on experience, visit the **[Image Generation Model Fine Tuning With Diffusers Models](https://www.aionlinecourse.com/ai-projects/playground/image-generation-model-fine-tuning-with-diffusers-models)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Image Generation Model Fine Tuning With Diffusers Models](https://www.aionlinecourse.com/ai-projects/playground/image-generation-model-fine-tuning-with-diffusers-models)** on AI Projects.
 
 ---
 ### **4. [Real-Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)**
@@ -64,7 +64,7 @@ This project uses the YOLOv8 model for real-time human pose detection. It can de
 #### **Project Outcome**
 The project offers a powerful solution for real-time human pose detection, supporting applications in sports analytics, fitness tracking, and more.
 
-For more details and hands-on experience, visit the **[Real-Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Real-Time Human Pose Detection With YOLOv8 Models](https://www.aionlinecourse.com/ai-projects/playground/real-time-human-pose-detection-with-yolov8-models)** on AI Projects.
 
 ---
 ### **5. [Real-Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)**
@@ -81,7 +81,7 @@ This project automates the detection and recognition of license plates using YOL
 #### **Project Outcome**
 This project delivers a robust solution for real-time license plate detection and recognition, suitable for security and traffic systems.
 
-For more details and hands-on experience, visit the **[Real-Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Real-Time License Plate Detection Using YOLOv8 and OCR Model](https://www.aionlinecourse.com/ai-projects/playground/real-time-license-plate-detection-using-yolov8-and-ocr-model)** on AI Projects.
 
 #### **Key Features Include**
 ---
@@ -99,7 +99,7 @@ This project leverages the U-Net architecture for medical image segmentation, ai
 #### **Project Outcome**
 This project showcases U-Net’s capability in automating medical image segmentation, improving disease detection, and facilitating treatment, ultimately enhancing healthcare outcomes.
 
-For more details and hands-on experience, visit the **[Medical Image Segmentation Using UNET](https://www.aionlinecourse.com/ai-projects/playground/medical-image-segmentation-with-unet)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and hands-on experience, visit the **[Medical Image Segmentation Using UNET](https://www.aionlinecourse.com/ai-projects/playground/medical-image-segmentation-with-unet)** on AI Projects.
 
 ---
 ### **7. [Leaf Disease Detection Using Deep Learning](https://www.aionlinecourse.com/ai-projects/playground/leaf-disease-detection-using-deep-learning)**
@@ -115,7 +115,7 @@ This project focuses on detecting and classifying leaf diseases using deep learn
 #### **Project Outcome**
 The Leaf Disease Detection project successfully achieved high accuracy in identifying and classifying various leaf diseases using deep learning models like VGG16, VGG19, and EfficientNetB4. This provides an efficient tool for early disease detection, enabling proactive crop management and reducing agricultural losses.
 
-For more details and a hands-on experience, visit the **[Leaf Disease Detection Project](https://www.aionlinecourse.com/ai-projects/playground/leaf-disease-detection-using-deep-learning)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and a hands-on experience, visit the **[Leaf Disease Detection Project](https://www.aionlinecourse.com/ai-projects/playground/leaf-disease-detection-using-deep-learning)** on AI Projects.
 
 ---
 ### **8. [Banana Leaf Disease Detection Using Vision Transformer Model](https://www.aionlinecourse.com/ai-projects/playground/banana-leaf-disease-detection-using-vision-transformer-model)**
@@ -130,8 +130,8 @@ This project automates the detection of banana leaf diseases using a hybrid mode
 #### **Project Outcome**
 The hybrid model effectively detects banana leaf diseases, offering a fast, automated solution for early disease management.
 
-For more details and a hands-on experience, visit the **[Banana Leaf Disease Detection Project](https://www.aionlinecourse.com/ai-projects/playground/banana-leaf-disease-detection-using-vision-transformer-model)** on **[Ai-projects](https://www.aionlinecourse.com/ai-projects)**.
+For more details and a hands-on experience, visit the **[Banana Leaf Disease Detection Project](https://www.aionlinecourse.com/ai-projects/playground/banana-leaf-disease-detection-using-vision-transformer-model)** on AI Projects.
 
 ---
-### **Exciting new [Conputer Vision Projects](https://www.aionlinecourse.com/ai-projects/categories/computer-vision-projects) are coming soon to our website. Visit our site at [Aionlinecourse](https://www.aionlinecourse.com/) to learn the latest projects and stay connected with us!**
+### **Exciting new [Conputer Vision Projects](https://www.aionlinecourse.com/ai-projects/categories/computer-vision-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
 ---
