@@ -133,5 +133,24 @@ The hybrid model effectively detects banana leaf diseases, offering a fast, auto
 For more details and a hands-on experience, visit the **[Banana Leaf Disease Detection Project](https://www.aionlinecourse.com/ai-projects/playground/banana-leaf-disease-detection-using-vision-transformer-model)** on AI Projects.
 
 ---
+### **9 [Build a Face Recognition System Using FaceNet in Python](https://www.aionlinecourse.com/ai-projects/playground/build-a-face-recognition-system-using-facenet-in-python)**
+
+#### **Project Overview**  
+This project focuses on implementing a deep learning-based face recognition system. The system uses MTCNN for face detection and InceptionResnetV1 to extract face embeddings, enabling the comparison of faces and the determination of similarities based on cosine similarity. It can be applied in various fields such as security, authentication, and photo organization.
+
+#### **Key Features**  
+- **Data Collection:** Collect a dataset with multiple faces suitable for comparison.
+- **Face Detection:** MTCNN detects faces and landmarks in images, positioning them correctly for recognition.
+- **Face Embeddings:** InceptionResnetV1 generates unique numerical representations for each face, capturing essential facial features.
+- **Cosine Similarity:** Cosine similarity is used to compare face embeddings and determine matching faces based on a threshold.
+- **Real-time Predictions:** Search for similar faces in a folder by comparing their embeddings to a reference image, presenting results visually with cosine distance values.
+
+#### **Project Outcome**  
+The Face Recognition System successfully compares faces, finds similarities, and visualizes the results using cosine similarity. This provides a robust face recognition solution that can be used in various applications like security, authentication, and organizing photo collections.
+
+For more details and a hands-on experience, visit the **[Face Recognition Project](https://www.aionlinecourse.com/ai-projects/playground/build-a-face-recognition-system-using-facenet-in-python)** on AI Projects.
+
+---
+Let me know if you'd like further modifications or additions!
 ### **Exciting new [Conputer Vision Projects](https://www.aionlinecourse.com/ai-projects/categories/computer-vision-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
 ---
